@@ -1,5 +1,5 @@
 # DiceRolling
-## [Michele Sanfilippo](https://github.com/michelesanfilippo) :smiley:
+### [Michele Sanfilippo](https://github.com/michelesanfilippo) :smiley:
 
 ### A simple project in python while learning the basics.
 
