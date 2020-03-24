@@ -6,10 +6,11 @@ You can choose to roll the dice or stop and you'll get a random generated number
 simple examples:
 
 When you decide to stop
-https://github.com/michelesanfilippo/DiceRolling/blob/master/screens/noimg.png
+![stop](https://github.com/michelesanfilippo/DiceRolling/blob/master/screens/noimg.png)
+
 
 And when you decide to roll
+![dice1](https://github.com/michelesanfilippo/DiceRolling/blob/master/screens/extract1.png)
 
-https://github.com/michelesanfilippo/DiceRolling/blob/master/screens/extract1.png
+![dice4](https://github.com/michelesanfilippo/DiceRolling/blob/master/screens/extract4.png)
 
-https://github.com/michelesanfilippo/DiceRolling/blob/master/screens/extract4.png
